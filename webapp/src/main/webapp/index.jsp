@@ -1,2 +1,2 @@
 <h1>Hello World!</h1>
-<h1>Restarting pod via yml</h1>
+<h1>Changes to kube_deploy</h1>
